@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "861494357537",
+    "firebase_url": "https://christiannetwork-2d1f9.firebaseio.com",
+    "project_id": "christiannetwork-2d1f9",
+    "storage_bucket": "christiannetwork-2d1f9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:861494357537:android:f197afc6a4695137",
+        "android_client_info": {
+          "package_name": "com.rex.christiannetwork"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "861494357537-5jr2dub21qiafnend6hdg4jkts45m54u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rex.christiannetwork",
+            "certificate_hash": "a72d89c835a05a60ae2727f4a6687dc61db601f3"
+          }
+        },
+        {
+          "client_id": "861494357537-mfg6t3b3lpraicj2u1pp5uvev908bar3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWjLV7_aT12b2mJTMo7o0TVtsevEGc7Mo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "861494357537-mfg6t3b3lpraicj2u1pp5uvev908bar3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
